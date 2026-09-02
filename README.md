@@ -59,13 +59,13 @@
 
 ## 📚 ÍNDICE
 
-- [🗺️ Roadmap](#-roadmap)
+- [🗺️ Roadmap](#️-roadmap)
 - [📖 Documentação oficial](#-documentação-oficial)
 - [🔤 Sites e cursos para aprender Excel](#-sites-e-cursos-para-aprender-excel)
 - [📚 Livros](#-livros)
 - [🎥 Canais no Youtube](#-canais-no-youtube)
 - [📰 Sites, blogs e newsletters](#-sites-blogs-e-newsletters)
-- [🛠️ Ferramentas](#-ferramentas)
+- [🛠️ Ferramentas](#️-ferramentas)
 - [🧪 Projetos práticos e desafios](#-projetos-práticos-e-desafios)
 - [🤖 IA na prática](#-ia-na-prática)
 - [💼 Carreira e vagas](#-carreira-e-vagas)
