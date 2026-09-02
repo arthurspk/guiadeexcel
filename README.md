@@ -75,7 +75,6 @@
 ## 🗺️ Roadmap
 
 - [Central de Ajuda do Excel (Microsoft, PT-BR)](https://support.microsoft.com/pt-br/excel) — Ponto de partida oficial: primeiros passos, fórmulas, tabelas, gráficos e Copilot, organizados por tópico.
-- [Excel Help Center (Microsoft, EN)](https://support.microsoft.com/en-us/excel) — A mesma central em inglês, geralmente atualizada primeiro que a tradução.
 - [Treinamentos oficiais de Excel — Microsoft Learn (PT-BR)](https://learn.microsoft.com/pt-br/training/browse/?products=excel) — Catálogo com todos os módulos e trilhas oficiais de Excel da Microsoft, do básico ao avançado.
 - [Excel training catalog — Microsoft Learn (EN)](https://learn.microsoft.com/en-us/training/browse/?products=excel) — Versão em inglês do catálogo, com módulos que ainda não têm tradução.
 
@@ -92,7 +91,7 @@
 
 **Por onde começar:**
 
-1. **Instale o Excel** (Microsoft 365, licença via faculdade/empresa, ou use o [Excel na Web](https://support.microsoft.com/pt-br/excel) gratuito no navegador).
+1. **Instale o Excel** (Microsoft 365, licença via faculdade/empresa, ou use o [Excel na Web](https://excel.cloud.microsoft/) gratuito no navegador).
 2. **Aprenda a interface e as fórmulas básicas** com a [Visão geral de fórmulas no Excel](https://support.microsoft.com/pt-br/excel/get-started/overview-of-formulas-in-excel), da própria Microsoft.
 3. **Faça um curso completo em português** no canal da [Hashtag Treinamentos](https://www.youtube.com/@HashtagTreinamentos) ou da [Escola do Excel](https://www.youtube.com/@EscoladoExcel).
 4. **Pratique PROCV, Tabela Dinâmica e Power Query** com os artigos da Hashtag: [PROCV no Excel](https://www.hashtagtreinamentos.com/procv-excel), [Tabela Dinâmica](https://www.hashtagtreinamentos.com/tabela-dinamica-excel) e [Power Query](https://www.hashtagtreinamentos.com/power-query-excel).
@@ -194,14 +193,11 @@
 
 ## 🛠️ Ferramentas
 
-- [Excel na Web](https://support.microsoft.com/pt-br/excel) — Use o Excel gratuitamente pelo navegador com uma conta Microsoft, sem instalar nada.
+- [Excel na Web](https://excel.cloud.microsoft/) — Use o Excel gratuitamente pelo navegador com uma conta Microsoft, sem instalar nada.
 - [Vertex42](https://www.vertex42.com/) — Modelos (templates) profissionais de planilhas prontos para baixar e adaptar.
 - [ExcelJet — Referência de funções](https://exceljet.net/functions) — Consulta rápida da sintaxe e de exemplos de todas as funções do Excel.
 - [ExcelJet — Atalhos de teclado](https://exceljet.net/keyboard-shortcuts) — Lista de atalhos por categoria, para Windows e Mac.
 - [ExcelJet — Tabelas Dinâmicas](https://exceljet.net/pivot-tables) — Guia de referência com exemplos práticos de PivotTables.
-- [Get Digital Help](https://www.get-digital-help.com/) — Mini-ferramentas e planilhas prontas para resolver problemas comuns de fórmulas.
-- [Office Scripts (Excel na Web)](https://learn.microsoft.com/pt-br/office/dev/scripts/) — Automatize o Excel na Web com TypeScript, sem precisar do VBA.
-- [Power Automate](https://learn.microsoft.com/pt-br/power-automate/) — Conecte o Excel a outros sistemas e automatize fluxos de trabalho sem código.
 
 ## 🧪 Projetos práticos e desafios
 
@@ -242,7 +238,6 @@ O Excel aparece como requisito em praticamente toda vaga de Administração, Fin
 - [Vagas de Excel (Vagas.com)](https://www.vagas.com.br/vagas-de-excel) — Vagas atualizadas no Brasil que exigem conhecimento em Excel.
 - [Vagas com Excel (InfoJobs)](https://www.infojobs.com.br/empregos.aspx?palabra=excel) — Filtro de vagas brasileiras que pedem Excel como habilidade.
 - [Vagas com Excel (Programathor)](https://programathor.com.br/jobs?search=excel) — Vagas de tecnologia e dados que mencionam Excel como requisito.
-- [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics) — Certificado profissional do Google com módulos de planilhas (Excel/Sheets) aplicados a Análise de Dados. Pode ser assistido gratuitamente; certificado é pago.
 
 ## 👥 Comunidades
 
@@ -256,7 +251,6 @@ O Excel aparece como requisito em praticamente toda vaga de Administração, Fin
 - [Microsoft Office Specialist (MOS) — Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/mos.htm) — A certificação oficial da Microsoft para Excel, com níveis Associate e Expert.
 - [MOS — Microsoft 365 Apps (Certiport/Pearson VUE)](https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Certify) — Página de inscrição e detalhes dos exames de certificação do Office/Excel.
 - [Google Data Analytics Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/google-data-analytics) — Certificado com carga de trabalho prática em planilhas (Excel/Sheets), reconhecido no mercado. Pago.
-- [Microsoft Excel courses com certificado (GoSkills)](https://www.goskills.com/Excel) — Certificados de conclusão por trilha (básico, intermediário, avançado). Plataforma paga.
 
 ## 🚨 Como contribuir
 
